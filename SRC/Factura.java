@@ -1,3 +1,5 @@
+package SRC;
+
 class Factura {
 
     public void calcularTotal() {
