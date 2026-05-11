@@ -2,9 +2,10 @@
 
 Integrantes:
 
-Eduar Andres Renteria
-Juan Felipe Bustamante 
+Eduar Andres Renteria.
+
+Juan Felipe Bustamante. 
 
 Grupo 411
 
-Tema: principio de responsabilidad única
+Tema: principio de responsabilidad única.
